@@ -170,6 +170,4 @@ data/
 .data
 .egpu
 egpu/
-.default_path
-default_path/
 
