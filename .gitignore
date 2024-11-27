@@ -168,4 +168,8 @@ cython_debug/
 stage5/
 data/
 .data
+.egpu
+egpu/
+.default_path
+default_path/
 
