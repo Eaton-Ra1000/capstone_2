@@ -174,3 +174,6 @@ egpu/
 default_path/
 default_path_less_overlay_5_combie/default_path_less_overlay_5_combie/
 default_path_less_overlay_5_combie/
+default_path_less_overlay_Maintanence/
+default_path_less_corrupt_Maintanence/
+*.dat
